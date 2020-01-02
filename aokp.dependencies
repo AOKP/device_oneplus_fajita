@@ -1,10 +1,12 @@
 [
   {
+    "remote": "los",
     "repository": "android_device_oneplus_common",
     "target_path": "device/oneplus/common"
   },
   {
-    "repository": "android_device_oneplus_sdm845-common",
+    "remote": "aokp",
+    "repository": "device_oneplus_sdm845-common",
     "target_path": "device/oneplus/sdm845-common"
   }
 ]
